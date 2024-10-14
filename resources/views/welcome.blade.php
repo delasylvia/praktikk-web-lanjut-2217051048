@@ -38,7 +38,7 @@
                     </svg>
                 </div><br>
             
-                <div><p style="text-align: center">Pradya Hening Pertiwi - 2217051005</p></div>
+                <div><p style="text-align: center">Dela Sylviayani - 2217051048</p></div>
 
                 <div class="mt-16">
                     <div class="grid grid-cols-1 md:grid-cols-2 gap-6 lg:gap-8">
